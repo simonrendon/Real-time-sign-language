@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>1.fddb079c-5322-11ec-b3ea-463500000031.jpg</filename>
+	<path>C:\Users\corbi\Downloads\cs4253\Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\1.fddb079c-5322-11ec-b3ea-463500000031.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>109</ymin>
+			<xmax>464</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
